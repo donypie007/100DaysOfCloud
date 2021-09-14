@@ -24,6 +24,7 @@ At the end of this challenge, I'd like to:
 
 
 https://twitter.com/durkanm
+
 https://www.linkedin.com/in/michael-durkan-1a72a759/
 
 ## Stepping out the door
