@@ -22,8 +22,9 @@ At the end of this challenge, I'd like to:
 - Become more comfortable in a programming language
 - Gain knowledge of Ansible and Terraform
 
-- https://twitter.com/durkanm
-- https://www.linkedin.com/in/michael-durkan-1a72a759/
+
+https://twitter.com/durkanm
+https://www.linkedin.com/in/michael-durkan-1a72a759/
 
 ## Stepping out the door
 
