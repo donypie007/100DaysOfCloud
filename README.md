@@ -9,7 +9,7 @@ My name is Michael Durkan, and I'm a 20+ year veteran in the IT Industry. I work
 I'm starting this challenge as a way to expand my Cloud Skillset across Multi-Cloud environments. I have multiple Microsoft Certifications, and have already achieved the following:
 
 - AZ-104: Azure Administrator Associate
-- AZ-700: Azure Virtual Desktop Specialty
+- AZ-140: Azure Virtual Desktop Specialty
 - SC-300: Identity and Access Administrator Associate
 - MCSE Core Infrastructure - Server 2016
 
