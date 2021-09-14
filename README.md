@@ -11,19 +11,37 @@
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
 ## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Fill in your details where you see this icon ✍️
+## We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [✍️ Michael Durkan]'s Cloud Journey
 
 [✍️ Introduce yourself]
 
+My name is Michael Durkan, and I'm a 20+ year veteran in the IT Industry. I work as a Senior Engineer for Ekco, who are a Microsoft/VMware/Veeam partner based in Ireland. I'm primarily focused on Microsoft Technologies such as Active Directory, Exchange, Hyper-V, Failover Clustering, SQL and System Center. I've worked with Office 365 for the past 10 years, and have worked with Azure for 5 years. 
+
 [✍️ Tell us why you started this challenge]
+
+I'm starting this challenge as a way to expand my Cloud Skillset across Multi-Cloud environments. I have multiple Microsoft Certifications, and have already achieved the following:
+
+- AZ-104: Azure Administrator Associate
+- AZ-700: Azure Virtual Desktop Specialty
+- SC-300: Identity and Access Administrator Associate
+- MCSE Core Infrastructure - Server 2016
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+At the end of this challenge, I'd like to:
+
+- Have the knowlegde to create services across multiple cloud providers
+- Be comfortable identiying and troubleshooting services across multiple providers
+- Be comfortable identifying the best cloud service offering for a particular problem
+- Understand Serverless Functions and their usage
+- Become more comfortable in a programming language
+- Gain knowledge of Ansible and Terraform
+
+- [✍️ Link to your Twitter](https://twitter.com/durkanm)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/michael-durkan-1a72a759/)
 
 ## Stepping out the door
 
