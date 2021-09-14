@@ -2,25 +2,9 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-
-## How to use this template:
-## Fill in your details where you see this icon ✍️
-## We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
-## [✍️ Michael Durkan]'s Cloud Journey
-
-[✍️ Introduce yourself]
+## Michael Durkan's Cloud Journey
 
 My name is Michael Durkan, and I'm a 20+ year veteran in the IT Industry. I work as a Senior Engineer for Ekco, who are a Microsoft/VMware/Veeam partner based in Ireland. I'm primarily focused on Microsoft Technologies such as Active Directory, Exchange, Hyper-V, Failover Clustering, SQL and System Center. I've worked with Office 365 for the past 10 years, and have worked with Azure for 5 years. 
-
-[✍️ Tell us why you started this challenge]
 
 I'm starting this challenge as a way to expand my Cloud Skillset across Multi-Cloud environments. I have multiple Microsoft Certifications, and have already achieved the following:
 
@@ -28,8 +12,6 @@ I'm starting this challenge as a way to expand my Cloud Skillset across Multi-Cl
 - AZ-700: Azure Virtual Desktop Specialty
 - SC-300: Identity and Access Administrator Associate
 - MCSE Core Infrastructure - Server 2016
-
-[✍️ Tell us where you want to be at the end of the challenge]
 
 At the end of this challenge, I'd like to:
 
@@ -40,8 +22,8 @@ At the end of this challenge, I'd like to:
 - Become more comfortable in a programming language
 - Gain knowledge of Ansible and Terraform
 
-- [✍️ Link to your Twitter](https://twitter.com/durkanm)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/michael-durkan-1a72a759/)
+- https://twitter.com/durkanm
+- https://www.linkedin.com/in/michael-durkan-1a72a759/
 
 ## Stepping out the door
 
