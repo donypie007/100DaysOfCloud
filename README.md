@@ -22,10 +22,11 @@ At the end of this challenge, I'd like to:
 - Become more comfortable in a programming language
 - Gain knowledge of Ansible and Terraform
 
+[Blog](https://durkanm.medium.com/)
 
-https://twitter.com/durkanm
+[LinkedIn](https://www.linkedin.com/in/michael-durkan-1a72a759/)
 
-https://www.linkedin.com/in/michael-durkan-1a72a759/
+[Twitter](https://twitter.com/durkanm)
 
 ## Azure - Preparing the Environment and the Basics
 
