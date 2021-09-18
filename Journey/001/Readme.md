@@ -126,10 +126,10 @@ Extensions add languages, tools and debuggers to VS Code which auto-recognize fi
 
 ## Social Proof
 
-https://durkanm.medium.com/100-days-of-cloud-day-1-preparing-the-environment-29c16ac3dc8
+[Medium](https://durkanm.medium.com/100-days-of-cloud-day-1-preparing-the-environment-29c16ac3dc8)
 
-https://www.linkedin.com/posts/michael-durkan-1a72a759_100-days-of-cloudday-1-preparing-the-activity-6844395875175809024-AyTh
+[LinkedIn](https://www.linkedin.com/posts/michael-durkan-1a72a759_100-days-of-cloudday-1-preparing-the-activity-6844395875175809024-AyTh)
 
-https://twitter.com/durkanm/status/1438628880143761409
+[Twitter](https://twitter.com/durkanm/status/1438628880143761409)
 
 
