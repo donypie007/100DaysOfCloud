@@ -83,12 +83,12 @@ At the end of this challenge, I'd like to:
 
 ## Taking the plunge into AWS
 
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
-- [ ] ☁️ 31 > [](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
+- [ ] ☁️ 27 > [Taking the Plunge into AWS](Journey/027/Readme.md)
+- [ ] ☁️ 28 > [AWS Cloud Practitioner Essentials Day 1](Journey/028/Readme.md)
+- [ ] ☁️ 29 > [AWS Cloud Practitioner Essentials Day 2](Journey/029/Readme.md)
+- [ ] ☁️ 30 > [AWS Cloud Practitioner Essentials Day 3](Journey/030/Readme.md)
+- [ ] ☁️ 31 > [AWS Cloud Practitioner Essentials Day 4](Journey/031/Readme.md)
+- [ ] ☁️ 32 > [AWS Cloud Practitioner Essentials Day 5](Journey/032/Readme.md)
 
 ## Infrastructure as Code - Terraform
 
