@@ -1,52 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Azure Spot and Reserved Instances
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Azure Spot instances allow you to utilize any unused Azure Capacity in your region at the fraction of the cost. However, at any point in time when Azure needs the capacity back, the Spot Instances will be evicted and removed from service at 30 seconds notice.
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Azure Reserved Instances is a way to reserve your compute capacity for a period of 1, 3 or 5 years at savings of over 70% when compared to Pay-As-You-Go pricing. This is best suited to Production workloads that need to have 24/7 runtime and high availability.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Blog](https://michaeldurkan.com/2022/01/01/100daysofcloud-day45-azurespotandreservedinstances/)
+
+[LinkedIn](https://www.linkedin.com/posts/michael-durkan-1a72a759_100-days-of-cloud-day-45-azure-spot-and-activity-6883186488645890048-0V2X)
