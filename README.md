@@ -92,11 +92,11 @@ At the end of this challenge, I'd like to:
 
 ## Infrastructure as Code - Terraform
 
-- [ ] ☁️ 34 > [](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [](Journey/038/Readme.md)
+- [ ] ☁️ 34 > [Infrastructure as Code with Terraform](Journey/034/Readme.md)
+- [ ] ☁️ 35 > [Terraform on Azure Cloud Shell Part 1](Journey/035/Readme.md)
+- [ ] ☁️ 36 > [Terraform on Azure Cloud Shell Part 2](Journey/036/Readme.md)
+- [ ] ☁️ 37 > [Terraform on Azure Cloud Shell Part 3](Journey/037/Readme.md)
+- [ ] ☁️ 38 > [Terraform on Azure Cloud Shell Part 4](Journey/038/Readme.md)
 
 ## Cloudskills Podcast on Hiring Trends and Skills Demand for 2022
 
