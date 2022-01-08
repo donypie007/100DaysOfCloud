@@ -22,22 +22,25 @@ At the end of this challenge, I'd like to:
 - Become more comfortable in a programming language
 - Gain knowledge of Ansible and Terraform
 
-[Blog](https://durkanm.medium.com/)
+[Blog](https://michaeldurkan.com/)
 
 [LinkedIn](https://www.linkedin.com/in/michael-durkan-1a72a759/)
 
 [Twitter](https://twitter.com/durkanm)
 
-## Azure - Preparing the Environment and the Basics
+## Visual Studio Code - Preparing the Environment
 
 - [ ] ☁️ 1 > [Visual Studio Code and Github Source Control](Journey/001/Readme.md)
+
+## Azure - Getting Started with the Basics
+
 - [ ] ☁️ 2 > [Azure Budgets and Cost Management](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 3 > [Azure Resource Groups](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Azure Active Directory and RBAC Roles](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Deploy a Virtual Machine using Azure Portal](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Deploy a Virtual Machine using Azure PowerShell](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [Deploy a Virtual Machine using ARM Templates](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Azure Resource Locks and Azure Policy](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
