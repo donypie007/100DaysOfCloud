@@ -104,14 +104,14 @@ At the end of this challenge, I'd like to:
 
 ## Diving back into Azure!!
 
-- [ ] ☁️ 42 > [](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [](Journey/043/Readme.md)
-- [ ] ☁️ 44 > [](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
-- [ ] ☁️ 46 > [](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
+- [ ] ☁️ 42 > [Azure Bastion](Journey/042/Readme.md)
+- [ ] ☁️ 43 > [Azure JIT VM Access](Journey/043/Readme.md)
+- [ ] ☁️ 44 > [Azure Arc](Journey/044/Readme.md)
+- [ ] ☁️ 45 > [Azure Spot and Reserved Instances](Journey/045/Readme.md)
+- [ ] ☁️ 46 > [Azure Well Architected Framework](Journey/046/Readme.md)
+- [ ] ☁️ 47 > [AZ-800 (beta) Exam Day!](Journey/047/Readme.md)
+- [ ] ☁️ 48 > [Azure Network Adapter](Journey/048/Readme.md)
+- [ ] ☁️ 49 > [Managing Azure Services with Windows Admin Center](Journey/049/Readme.md)
 
 ## Halfway Review
 
