@@ -41,51 +41,69 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 6 > [Deploy a Virtual Machine using Azure PowerShell](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Deploy a Virtual Machine using ARM Templates](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Azure Resource Locks and Azure Policy](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## Walking down the road
+## Azure Networking and Security Concepts
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [ ] ☁️ 9 > [Azure Network Security Groups](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Azure Virtual Networks - Part 1](Journey/010/Readme.md)
+- [ ] ☁️ 11 > [Azure Virtual Networks - Part 2](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Azure Point to Site VPN Connectivity](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [Azure Site to Site VPN Connectivity](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [Azure Managed Identities](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [Azure Key Vault](Journey/015/Readme.md)
+- [ ] ☁️ 16 > [Azure Firewall](Journey/016/Readme.md)
+
+## A Diversion via Microsoft Ignite 2021
+
+- [ ] ☁️ 17 > [Microsoft Ignite Cloud Skills Challenge](Journey/017/Readme.md)
+
+## Back to Azure (briefly)!!!
+
+- [ ] ☁️ 18 > [Azure Migrate](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [Azure Site Recovery](Journey/019/Readme.md)
+
+## A few brief posts while on Holidays!!
+
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
-
-## Crossing the bridge
-
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
+
+## Back from Holidays, back to Azure!!
+
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
+
+## CloudSkills Linux Bootcamp
+
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
+- [ ] ☁️ 33 > [](Journey/033/Readme.md)
+- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [ ] ☁️ 41 > [](Journey/041/Readme.md)
+
+## Taking the plunge into AWS
+
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
-
-## Into the bushy, thorny forest
-
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
+
+## Infrastructure as Code - Terraform
+
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
+
+## Cloudskills Podcast on Hiring Trends and Skills Demand for 2022
+
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
-## Trekking the dunes
+## Diving back into Azure!!
 
-- [ ] ☁️ 41 > [](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
@@ -94,6 +112,9 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
+
+## Halfway Review
+
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
 ## Winding through the canyons
