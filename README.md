@@ -74,12 +74,12 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 24 > [Azure Import/Export and Azure Data Box](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [Azure Storage](Journey/025/Readme.md)
 
-## CloudSkills Linux Bootcamp
+## CloudSkills Linux Cloud Engineer Bootcamp
 
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
-- [ ] ☁️ 41 > [](Journey/041/Readme.md)
+- [ ] ☁️ 26 > [Linux Cloud Engineer Bootcamp - Week 1](Journey/026/Readme.md)
+- [ ] ☁️ 33 > [Linux Cloud Engineer Bootcamp - Week 2](Journey/033/Readme.md)
+- [ ] ☁️ 40 > [Linux Cloud Engineer Bootcamp - Week 3](Journey/040/Readme.md)
+- [ ] ☁️ 41 > [Linux Cloud Engineer Bootcamp - Week 4](Journey/041/Readme.md)
 
 ## Taking the plunge into AWS
 
@@ -100,7 +100,7 @@ At the end of this challenge, I'd like to:
 
 ## Cloudskills Podcast on Hiring Trends and Skills Demand for 2022
 
-- [ ] ☁️ 39 > [](Journey/039/Readme.md)
+- [ ] ☁️ 39 > [Cloudskills.io Podcast Hiring Trends and In-Demand Skills for 2022](Journey/039/Readme.md)
 
 ## Diving back into Azure!!
 
